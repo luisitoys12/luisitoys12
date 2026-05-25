@@ -30,7 +30,9 @@ En mi perfil encontrarás proyectos relacionados con:
 - 📊 Paneles/administración para contenido
 - ⚙️ Deploy & self-hosting (Docker, scripts, VPS)
 
-> Si quieres, puedo convertir esta sección en un portafolio con **tarjetas** (sin lista larga), usando 4–6 proyectos “featured” y un botón a “ver todos”.
-
 ## Contacto
-- GitHub: [@luisitoys12](https://github.com/luisitoys12)
+- GitHub 🔧: [@luisitoys12](https://github.com/luisitoys12)
+
+
+Contacto
+- Email 📧: [luisestacionkusmedios@gmail.com](mailito: luisestacionkusmedios@gmail.com)
