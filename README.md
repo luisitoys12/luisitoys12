@@ -32,7 +32,4 @@ En mi perfil encontrarás proyectos relacionados con:
 
 ## Contacto
 - GitHub 🔧: [@luisitoys12](https://github.com/luisitoys12)
-
-
-Contacto
-- Email 📧: [luisestacionkusmedios@gmail.com](mailito: luisestacionkusmedios@gmail.com)
+- Email 📧: [luisestacionkusmedios@gmail.com](mailto:luisestacionkusmedios@gmail.com)
